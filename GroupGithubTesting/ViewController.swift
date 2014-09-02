@@ -18,7 +18,10 @@ class ViewController: UIViewController {
         println("Another Merge Conflict!!!")
         
         // Do any additional setup after loading the view, typically from a nib.
+        println("Another conflict")
     }
+    
+
 
     override func didReceiveMemoryWarning() {
         super.didReceiveMemoryWarning()
