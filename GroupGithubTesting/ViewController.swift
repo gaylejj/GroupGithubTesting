@@ -16,8 +16,9 @@ class ViewController: UIViewController {
         println("Merge Conflict")
         
         println("Another Merge Conflict!!!")
+
+        println("Mikes conflict statement")
         
-        // Do any additional setup after loading the view, typically from a nib.
         println("Another conflict")
     }
     
