@@ -16,8 +16,6 @@ class ViewController: UIViewController {
         println("Merge Conflict")
         
         println("Another Merge Conflict!!!")
-
-        println("Mikes conflict statement")
         
         println("Another conflict")
     }
